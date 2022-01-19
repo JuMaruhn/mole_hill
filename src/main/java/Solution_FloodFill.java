@@ -1,6 +1,12 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * This class solves the coding game "mountain of mole hill" with the flood-fill algorithm:
+ * https://www.codingame.com/ide/puzzle/a-mountain-of-a-mole-hill
+ *
+ * @author Justin Maruhn
+ **/
 public class Solution_FloodFill {
 
     //Just for debugging
